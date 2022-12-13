@@ -1,0 +1,32 @@
+.button{
+    -fx-background-color: #D5DFFD;
+    -fx-border-width: 2;
+    -fx-border-color: #FFCCBE;
+    -fx-font-family: "Symbol";
+    -fx-font-size: 18;
+    -fx-text-fill: #8E8E8E;
+}
+.label{
+    -fx-font-size: 20;
+    -fx-font-family: "Arial";
+}
+#clear{
+    -fx-background-color: #FF4658;
+    -fx-text-fill: #FFFFFF;
+}
+#result{
+    -fx-font-size: 23;
+    -fx-font-weight: 800;
+}
+.action{
+    -fx-background-color: #FDF6AE;
+}
+.button:hover{
+    -fx-background-color: #FDA096;
+}
+.container{
+    -fx-background-color: #8BABFD;
+}
+#viewPane{
+    -fx-background-color: #FD90CA;
+}
